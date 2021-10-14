@@ -1,4 +1,3 @@
-Este repositorio, es una prueba local realizada el 23-09-2021
+PRUEBA DE REVERSION DE COMMIT DESDE MI REPO LOCAL
 
-autor: Luisito
-Hora: 19:37 hs
+JUEVES 14-10-2021
